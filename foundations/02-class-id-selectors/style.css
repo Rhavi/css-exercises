@@ -1,0 +1,18 @@
+.Odd{
+    background-color: fuchsia;
+    font: Verdana, DejaVu Sans, sans-serif;
+}
+
+.Cooler, #Div2{
+font-size: 24px;
+}
+
+#Div1{
+    color:blue;
+    fontsize:36px;
+}
+
+#Div2{
+background-color: lightgreen;
+font-weight: bold;
+}
