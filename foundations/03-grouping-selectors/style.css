@@ -1,0 +1,16 @@
+/* style.css */
+
+.Inverted{
+    background-color:black;
+    color: white;
+}
+
+.Bright{
+    background-color: yellow;
+}
+
+.Bright, .Inverted{
+Font-size: 28px;
+font-family: 'Helvetica','Times New Roman','sans-serif';
+
+}
