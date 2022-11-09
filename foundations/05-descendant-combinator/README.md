@@ -37,7 +37,7 @@ when you want to affect multiple items put a comma between the selectors
 element_name, #ID_name{}
 this will affect anything with either of these options
 
-when you want to target a specific collection of traits they need to be int he selector field without a comma
+when you want to target a specific collection of traits they need to be in the selector field without a comma
 element_name .class_name #ID_Name{}
 this will target anything that has these options in this order, since its so specific it will supercede other options
 -->
